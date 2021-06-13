@@ -4,7 +4,7 @@
 - ♟ Open for internships.
 
 ### Check my profiles : 
-&ensp;&ensp;&ensp;📌 <a href='https://leetcode.com/theEMKONcoder/'>Leetcode</a>
+&ensp;&ensp;&ensp;📌 <a href='https://leetcode.com/theEMCONcoder/'>Leetcode</a>
 <br>&ensp;&ensp;&ensp;📌 <a href='https://auth.geeksforgeeks.org/user/varuntejajaladhula/practice/'>GeekforGeeks</a>
 <br>&ensp;&ensp;&ensp;📌 <a href='https://www.hackerrank.com/varunteja200025?hr_r=1'>HackerRank</a>
 

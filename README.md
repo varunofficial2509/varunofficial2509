@@ -12,8 +12,6 @@
 
 Feel free to mail me at:
 ✉<a href='mailto:varunofficial2509@gmail.com'>varunofficial2509@gmail.com</a><br><br>
-[![toplanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunofficial2509&count_private=true&show_icons=true&theme=radical&layout=compact)]()
-[![github profile](https://github-readme-stats.vercel.app/api?username=varunofficial2509&show_icons=true&include_all_commits=true&theme=radical)]()
 
 
 

@@ -1,8 +1,5 @@
 ### Hi there, I'm Varun Teja 👋
 
-- 🔭 Iam currently pursuing my under-graduation at JNTUH College of Engineering.
-- ♟ Open for internships.
-
 ### Check my profiles : 
 &ensp;&ensp;&ensp;📌 <a href='https://leetcode.com/theEMCONcoder/'>Leetcode</a>
 <br>&ensp;&ensp;&ensp;📌 <a href='https://auth.geeksforgeeks.org/user/varuntejajaladhula/practice/'>GeekforGeeks</a>
